@@ -1,0 +1,8 @@
+/tempContent
+/__pycache__
+.env
+newsData.txt
+secret.json
+*.pickle
+/.vscode
+edited0TEMP_MPY_wvf_snd.mp3
